@@ -1,1 +1,5 @@
-# CheeZJokes
+### Initialization
+
+```
+npm install && npm start
+```
